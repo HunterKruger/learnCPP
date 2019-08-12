@@ -1,0 +1,61 @@
+Seance1  Struct/PointerArrayList
+Seance2  Class/Array/Prime 
+Seance3  Point/Segment/Polygone    (PointerArrayList in Polygone)
+Seance4  String/static         (PointerLinkList in Account)
+Seance5  OperatorOverload/PGCD 
+Seance6  Inherit/Enum/Polymorphism
+Seance7  MultiInherit/Polymorphism   (PointerArrayList in ListAnimal)
+Seance8  RhombusInherit/Polymorphism
+Seance9  FileReadWrite/MultiInherit/Polymorphism (PointerLinkList in Shape)
+Seance10 Exception/EncapsulationClass/OperatorOverload
+Seance11 Templete/OperatorOverload
+Seance12 FileReadWrite/Vector/Map/Pair/Iterator/OperatorOverload
+Examen   OperatorOverload/Inherit/Switch
+
+switch ( test ) {
+  case 1 : 
+    // Process for test = 1
+    ...
+    break;
+  case 5 : 
+    // Process for test = 5
+    ...
+    break;
+  default : 
+    // Process for all other cases.
+    ...
+}
+
+<cstdlib>
+random of [m,n]
+r=rand()%(n-m+1)+m;  
+
+<math>
+sqrt();
+
+<cstring>
+strcmp     //return 0 if same
+strlen
+to_string  //force change to string
+strcat     //string merge
+
+<ctype>
+toupper
+
+
+CPP in Windows Visual Studio
+Sous Windows vous pouvez utiliser Visual Studio 2010.
+Il faut créer un projet Visual C++ Application console Win32 avec comme Paramètres de l’application : Projet vide.
+Apparemment il y a un problème à la compilation.
+Pour y remédier, une fois le projet créé , dans les propriétés du projet : Editeur de liens -> Désactiver les liens incrémentiels.
+
+CPP in Linux Eclipse
+File, New, Project: C++ Project 
+Next: Empty Project, Linux GCC
+Finish:
+New: Source Folder, Folder name:src
+In src: New Header File or Source File
+Remember: Save Build Run!!
+
+
+

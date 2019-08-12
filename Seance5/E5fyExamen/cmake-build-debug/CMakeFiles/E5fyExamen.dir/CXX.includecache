@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance5/E5fyExamen/Rational.h
+iostream
+/Users/FY/Desktop/CPP/Seance5/E5fyExamen/iostream
+math.h
+/Users/FY/Desktop/CPP/Seance5/E5fyExamen/math.h
+
+/Users/FY/Desktop/CPP/Seance5/E5fyExamen/main.cpp
+iostream
+-
+Rational.h
+/Users/FY/Desktop/CPP/Seance5/E5fyExamen/Rational.h
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance12/E12/Personne.h
+iostream
+-
+string
+-
+
+/Users/FY/Desktop/CPP/Seance12/E12/foncteurs_mot.h
+iostream
+-
+string
+-
+
+/Users/FY/Desktop/CPP/Seance12/E12/foncteurs_personne.h
+iostream
+-
+Personne.h
+/Users/FY/Desktop/CPP/Seance12/E12/Personne.h
+
+/Users/FY/Desktop/CPP/Seance12/E12/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+Personne.h
+/Users/FY/Desktop/CPP/Seance12/E12/Personne.h
+foncteurs_personne.h
+/Users/FY/Desktop/CPP/Seance12/E12/foncteurs_personne.h
+foncteurs_mot.h
+/Users/FY/Desktop/CPP/Seance12/E12/foncteurs_mot.h
+

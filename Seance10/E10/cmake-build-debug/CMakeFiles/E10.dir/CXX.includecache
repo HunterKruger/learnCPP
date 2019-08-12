@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance10/E10/Deborde.h
+iostream
+-
+cstring
+-
+
+/Users/FY/Desktop/CPP/Seance10/E10/Short.cpp
+iostream
+-
+climits
+-
+Deborde.h
+/Users/FY/Desktop/CPP/Seance10/E10/Deborde.h
+Short.h
+/Users/FY/Desktop/CPP/Seance10/E10/Short.h
+
+/Users/FY/Desktop/CPP/Seance10/E10/Short.h
+iostream
+-
+
+/Users/FY/Desktop/CPP/Seance10/E10/main.cpp
+iostream
+-
+Deborde.h
+/Users/FY/Desktop/CPP/Seance10/E10/Deborde.h
+Short.h
+/Users/FY/Desktop/CPP/Seance10/E10/Short.h
+

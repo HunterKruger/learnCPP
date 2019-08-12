@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/Point.h
+iostream
+-
+math.h
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/math.h
+
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/Segment.h
+iostream
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/iostream
+
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/Shape.h
+iostream
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/iostream
+
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/main.cpp
+iostream
+-
+Point.h
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/Point.h
+Segment.h
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/Segment.h
+Shape.h
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/Shape.h
+fstream
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/fstream
+iomanip
+/Users/FY/Desktop/CPP/Seance9/E9fyExamen/iomanip
+

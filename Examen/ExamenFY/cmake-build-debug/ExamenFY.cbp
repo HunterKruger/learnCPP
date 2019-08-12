@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ExamenFY"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExamenFY">
+				<Option output="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/ExamenFY" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/../../../../../../include/c++/4.9.4"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/../../../../../../include/c++/4.9.4/x86_64-apple-darwin17.3.0"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/../../../../../../include/c++/4.9.4/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/include-fixed"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamenFY"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExamenFY/fast">
+				<Option output="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/ExamenFY" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/../../../../../../include/c++/4.9.4"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/../../../../../../include/c++/4.9.4/x86_64-apple-darwin17.3.0"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/../../../../../../include/c++/4.9.4/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_1/lib/gcc/4.9/gcc/x86_64-apple-darwin17.3.0/4.9.4/include-fixed"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamenFY/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/FY/Desktop/CPP/Examen/ExamenFY/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Carte.cpp">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Carte.h">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Joueur.cpp">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Joueur.h">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/ListeCarte.cpp">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/ListeCarte.h">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Paquet.cpp">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Paquet.h">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Partie.cpp">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/Partie.h">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/main.cpp">
+			<Option target="ExamenFY"/>
+		</Unit>
+		<Unit filename="/Users/FY/Desktop/CPP/Examen/ExamenFY/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/cmake-build-debug/CMakeFiles/E7fyExamen.dir

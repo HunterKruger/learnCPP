@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance12/E12fy/FunctionPerson.h
+Person.h
+/Users/FY/Desktop/CPP/Seance12/E12fy/Person.h
+iostream
+/Users/FY/Desktop/CPP/Seance12/E12fy/iostream
+
+/Users/FY/Desktop/CPP/Seance12/E12fy/FunctionWord.h
+iostream
+-
+string
+-
+
+/Users/FY/Desktop/CPP/Seance12/E12fy/Person.h
+cstring
+/Users/FY/Desktop/CPP/Seance12/E12fy/cstring
+iostream
+/Users/FY/Desktop/CPP/Seance12/E12fy/iostream
+
+/Users/FY/Desktop/CPP/Seance12/E12fy/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+/Users/FY/Desktop/CPP/Seance12/E12fy/algorithm
+Person.h
+/Users/FY/Desktop/CPP/Seance12/E12fy/Person.h
+FunctionPerson.h
+/Users/FY/Desktop/CPP/Seance12/E12fy/FunctionPerson.h
+FunctionWord.h
+/Users/FY/Desktop/CPP/Seance12/E12fy/FunctionWord.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/Animal.h
+iostream
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/iostream
+
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/ListAnimal.h
+iostream
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/iostream
+
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/main.cpp
+iostream
+-
+Animal.h
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/Animal.h
+ListAnimal.h
+/Users/FY/Desktop/CPP/Seance7/E7fyExamen/ListAnimal.h
+

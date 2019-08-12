@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FY/Desktop/CPP/Seance5/E5/Ratio.cpp
+iostream
+-
+cstdlib
+-
+Ratio.h
+/Users/FY/Desktop/CPP/Seance5/E5/Ratio.h
+
+/Users/FY/Desktop/CPP/Seance5/E5/Ratio.h
+iostream
+-
+
+/Users/FY/Desktop/CPP/Seance5/E5/e5.cpp
+iostream
+-
+Ratio.h
+/Users/FY/Desktop/CPP/Seance5/E5/Ratio.h
+
